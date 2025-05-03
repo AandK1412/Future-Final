@@ -1,18 +1,14 @@
 ---
-title: Home
-layout: home
-nav_order: 1
-permalink: /
+title: North Korean Defectors Simulation
 ---
 
-# Just Another Simulation
+# Welcome to The Journey: A Stakeholder Simulation
 
-![Placeholder](assets/images/placeholder.png)
+Step into the roles of North Korean defectors and key global stakeholders. Make life-or-death decisions, balance political pressures, and shape the story of escape, survival, and justice.
 
-This is a template for creating new simulations.
+[Start the Simulation](scenarios/chapter1-escape.md)
 
-Below is a list of resources about the website.
+**About:**  
+This simulation is inspired by the true story of Yeonmi Park and thousands of defectors like her. You will navigate ethical dilemmas, political risks, and humanitarian crises from multiple perspectives.
 
-- [GitHub Repository](https://github.com/future-of-security/simulation-template)
-- [Markdown Examples](https://github.com/just-the-docs/just-the-docs/blob/main/docs/index-test.md) -> [Generated Page](https://just-the-docs.com/docs/index-test/)
-- [GitHub Pages](https://pages.github.com/)
+[Background](background.md) | [Map](map.md) | [Team](team/team.md)
