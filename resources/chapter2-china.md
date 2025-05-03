@@ -1,0 +1,14 @@
+---
+title: Chapter 2 China
+---
+
+# Chapter 2: Surviving in China
+
+In China, Yeonmi and her mother face new dangers. A missionary offers help, but traffickers also approach.
+
+**Missionary:** “I can smuggle you west.”  
+**Trafficker:** “Pay me and I’ll get you through.”
+
+### What would you do?
+- [Trust the missionary]({{ site.baseurl }}/scenarios/chapter3-desert)
+- [Pay the traffickers]({{ site.baseurl }}/scenarios/chapter3-scam)
