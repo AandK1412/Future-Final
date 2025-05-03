@@ -2,10 +2,10 @@
 title: Chapter 3 Desert Crossing
 ---
 
-# Chapter 3: The Gobi Desert
+# Chapter 3: Crossing the Gobi Desert
 
-With help from missionaries, Yeonmi and her mother prepare to cross the Gobi Desert. They have a compass, minimal supplies, and freezing temperatures to face.
+The missionary arranges a desert guide. Supplies are limited. Weather turns brutal.
 
-### As Yeonmi:
-- [Begin the crossing at night](scenarios/chapter4-southkorea)
-- [Wait for better weather](scenarios/chapter3-delay)
+### What would you do?
+- [Cross at night to avoid detection]({{ site.baseurl }}/scenarios/chapter4-southkorea)
+- [Rest and wait for better conditions]({{ site.baseurl }}/scenarios/chapter3-failure)
