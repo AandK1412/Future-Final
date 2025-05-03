@@ -6,7 +6,7 @@ title: North Korean Defectors Simulation
 
 Step into the roles of North Korean defectors and key global stakeholders. Make life-or-death decisions, balance political pressures, and shape the story of escape, survival, and justice.
 
-[Start the Simulation](scenarios/chapter1-escape.md)
+[Start the Simulation](scenarios/chapter1-escape)
 
 
 **About:**  
