@@ -1,11 +1,9 @@
 ---
-title: Map
-layout: map
-nav_order: 4
+title: Escape Route Map
 ---
 
-# Event Map
+# Escape Route Map
 
-Below is a map showing all events.
+![Yeonmi Park Escape Map](assets/images/escape-map.png)
 
-Update `_data/map.yml` to add more events.
+This map shows Yeonmi Park’s route from North Korea through China and Mongolia to South Korea.
