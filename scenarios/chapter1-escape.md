@@ -8,4 +8,4 @@ Yeonmi and her mother stand by the frozen Yalu River. It’s dark, the temperatu
 
 ### What would you do?
 - [Cross the river tonight](chapter2-china)
-- [Wait for another night](scenarios/chapter2-delay)
+- [Wait for another night](chapter2-delay)
