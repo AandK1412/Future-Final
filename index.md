@@ -12,4 +12,4 @@ Step into the roles of North Korean defectors and key global stakeholders. Make 
 **About:**  
 This simulation is inspired by the true story of Yeonmi Park and thousands of defectors like her. You will navigate ethical dilemmas, political risks, and humanitarian crises from multiple perspectives.
 
-[Background](background.md) | [Map](map.md) | [Team](team/team.md)
+[Background](background) | [Map](map) | [Team](team/team)
