@@ -7,5 +7,5 @@ title: Chapter 2 China
 In China, Yeonmi and her mother face new dangers. A missionary offers help, but traffickers also approach.
 
 ### What would you do?
-- [Trust the missionary]({{ site.baseurl }}/story/chapter3-desert)
-- [Pay the traffickers]({{ site.baseurl }}/story/chapter3-scam)
+- [Trust the missionary]({{ site.baseurl }}/scenarios/chapter3-desert)
+- [Pay the traffickers]({{ site.baseurl }}/scenarios/chapter3-scam)

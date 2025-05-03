@@ -7,5 +7,5 @@ title: Chapter 2 Delay
 They wait another night, but patrols increase.
 
 ### What would you do?
-- [Attempt crossing tomorrow]({{ site.baseurl }}/story/chapter3-caught)
-- [Find another escape route]({{ site.baseurl }}/story/chapter3-broker)
+- [Attempt crossing tomorrow]({{ site.baseurl }}/scenarios/chapter3-caught)
+- [Find another escape route]({{ site.baseurl }}/scenarios/chapter3-broker)

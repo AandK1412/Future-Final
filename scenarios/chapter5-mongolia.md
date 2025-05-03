@@ -7,4 +7,4 @@ title: Chapter 5 Mongolia Escape
 With the help of the NGO or fake documents, Yeonmi makes it to Ulaanbaatar.
 
 ### What would you do?
-- [Fly to South Korea]({{ site.baseurl }}/story/chapter6-southkorea)
+- [Fly to South Korea]({{ site.baseurl }}/scenarios/chapter6-southkorea)
