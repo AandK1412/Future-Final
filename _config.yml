@@ -1,6 +1,9 @@
 title: North Korean Defectors Simulation
-description: Interactive stakeholder role-play exploring the escape journey of Yeonmi Park
+description: Interactive stakeholder role-play exploring Yeonmi Park’s escape journey
+baseurl: "/Future-Final" 
+permalink: pretty
 theme: minima
+
 
 # Theme configurations. Do NOT modify.
 theme: just-the-docs
