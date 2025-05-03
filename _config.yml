@@ -1,7 +1,6 @@
-# Update the 
-title: Just Another Simulation
-description: A starter template for new simulations.
-footer_content: 'Simulation for Future of Security.'
+title: North Korean Defectors Simulation
+description: Interactive stakeholder role-play exploring the escape journey of Yeonmi Park
+theme: minima
 
 # Theme configurations. Do NOT modify.
 theme: just-the-docs
