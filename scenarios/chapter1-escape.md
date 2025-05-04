@@ -2,7 +2,6 @@
 title: Chapter 1 Escape
 ---
 
-<div style="background-image: url('{{ site.baseurl }}/assets/images/escape-bg.png'); background-size: cover; background-position: center; padding: 60px; min-height: 100vh; color: white; text-shadow: 2px 2px 4px #000; display: flex; flex-direction: column; align-items: center; justify-content: center;">
 
 ![Yeonmi Park Escape Map]({{ site.baseurl }}/assets/images/escape-bg.png)
 
