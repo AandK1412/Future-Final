@@ -2,7 +2,7 @@
 title: Chapter 1 Escape
 ---
 
-<div style="background-image: url('{{ site.baseurl }}/assets/images/escape-bg.png'); background-size: cover; background-position: center; padding: 60px; min-height: 100vh; color: white; text-shadow: 2px 2px 4px #000;">
+![Chapter Background]({{ site.baseurl }}/assets/images/escape-bg.png)
 
 # Chapter 1: Escape from North Korea
 
