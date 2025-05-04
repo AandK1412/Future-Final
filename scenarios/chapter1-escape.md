@@ -2,7 +2,7 @@
 title: Chapter 1 Escape
 ---
 
-<div style="position: relative; width: 100%; height: 60vh; background-image: url('{{ site.baseurl }}/assets/images/escape-bg.png'); background-size: cover; background-position: center; display: flex; flex-direction: column; align-items: center; justify-content: center; color: white; text-shadow: 2px 2px 4px #000;">
+<div style="position: relative; width: 100%; height: 85vh; background-image: url('{{ site.baseurl }}/assets/images/escape-bg.png'); background-size: cover; background-position: center; display: flex; flex-direction: column; align-items: center; justify-content: center; color: white; text-shadow: 2px 2px 4px #000;">
 
 <h1 style="font-size: 3em; margin: 0 0 10px 0;">Chapter 1: Escape from North Korea</h1>
 
