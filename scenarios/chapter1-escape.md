@@ -4,8 +4,10 @@ title: Chapter 1 Escape
 
 <div style="background-image: url('{{ site.baseurl }}/assets/images/escape-bg.png'); background-size: cover; background-position: center; padding: 60px; min-height: 100vh; color: white; text-shadow: 2px 2px 4px #000; display: flex; flex-direction: column; align-items: center; justify-content: center;">
 
+![Yeonmi Park Escape Map]({{ site.baseurl }}/assets/images/escape-bg.png)
 
 # Chapter 1: Escape from North Korea
+
 
 Yeonmi and her mother stand at the Yalu River. It’s dark, freezing, and guards patrol nearby. The water looks deadly, but waiting means more patrols.
 
